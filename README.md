@@ -2,6 +2,9 @@
 
 This project implements a Naive Bayes classifier **from scratch (by hand)** using Python to distinguish between **real** and **fake** news articles. No NLP libraries (e.g., TfidfVectorizer or CountVectorizer) are used for model building—only core Python data structures.
 
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/02bb3b7a-0d1a-43e0-9d75-0c53da59469f" />
+
+
 ---
 
 ## Dataset
